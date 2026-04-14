@@ -1,0 +1,10 @@
+title: 현지원 블로그
+description: 나의 첫 블로그
+
+url: "https://jiwon1225-web.github.io"
+baseurl: "/blog_hyunjiwon"
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
